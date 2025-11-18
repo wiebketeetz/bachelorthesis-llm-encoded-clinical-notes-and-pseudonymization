@@ -1,0 +1,7 @@
+Name:  <name>___</name>         Unit No:   ___
+
+Admission Date:  <admission_date>___</admission_date>              Discharge Date:   <discharge_date>___</discharge_date>
+
+Date of Birth:  <dob>___</dob>             Sex:   <sex>F</sex>
+
+Address: <address>___</address>
